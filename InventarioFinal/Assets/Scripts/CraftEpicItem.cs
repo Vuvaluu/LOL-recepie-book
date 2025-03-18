@@ -18,8 +18,7 @@ public class CraftEpicItem : MonoBehaviour
     [SerializeField] Image secondThumbnail;
     [SerializeField] Image resultThumbnail;
     [SerializeField] Button firstAcceptButton; 
-    [SerializeField] Button firstRejectButton;
-    [SerializeField] Button secondAcceptButton; 
+    [SerializeField] Button firstRejectButton; 
     [SerializeField] Button secondRejectButton;
     [SerializeField] GameObject checkmark;
     [SerializeField] GameObject crossicon;

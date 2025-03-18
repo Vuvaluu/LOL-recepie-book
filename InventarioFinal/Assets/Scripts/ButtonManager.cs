@@ -6,28 +6,28 @@ using UnityEngine.SceneManagement;
 public class ButtonManager : MonoBehaviour
 {
 
-   public void SeeEpicItems()
-   {
-    SceneManager.LoadScene("EpicItems");
-   }
+   public void ChooseGame()
+    {
+        SceneManager.LoadScene("Choose Game");
+    }
 
-   public void SeeLegendaryItems()
-   {
-    SceneManager.LoadScene("LegendaryItems");
-   }
+    public void Credits()
+    {
+        SceneManager.LoadScene("Credits");
+    }
 
-   public void PlayEpicItems()
-   {
-    SceneManager.LoadScene("PlayEpics");
-   }
+    public void Opcion1()
+    {
+        SceneManager.LoadScene("EpicItems");
+    }
 
-   public void PlayLegendaryItems()
-   {
-    SceneManager.LoadScene("PlayLegendarys");   
-   }
+    public void Opcion2()
+    {
+        SceneManager.LoadScene("LegendaryItems");
+    }
 
-   public void MainMenu()
-   {
-    SceneManager.LoadScene("Menu");
-   }
+    public void OnApplicationQuit()
+    {
+        Application.Quit();
+    }
 }

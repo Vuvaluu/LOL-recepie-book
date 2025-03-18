@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PlayLegendarys.unity
     guid: 2adfd8dcf9060e2408a3ee5c512bf8a3
+  - enabled: 1
+    path: Assets/Scenes/Choose Game.unity
+    guid: ba653b6ee6ffffe4d802f6796f8e5bcc
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: c414ef3ab42d94248a80025f350c713b
   m_configObjects: {}
