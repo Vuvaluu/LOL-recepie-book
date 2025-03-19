@@ -17,11 +17,13 @@ public class Item : MonoBehaviour
     public Sprite GetSpriteItemA()
     {
         return itemA;
+        return itemB;
     }
 
     public Sprite GetSpriteItemB()
     {
         return itemB;
+        return itemA;
     }
 
     public void SetSprite(Sprite sprite)

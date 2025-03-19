@@ -18,7 +18,7 @@ public class ButtonManager : MonoBehaviour
 
     public void Opcion1()
     {
-        SceneManager.LoadScene("EpicItems");
+        SceneManager.LoadScene("PlayEpics");
     }
 
     public void Opcion2()

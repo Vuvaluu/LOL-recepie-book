@@ -345,14 +345,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dbb762aef6c610d438f5c840c9b3a03c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  items:
-  - {fileID: 1609710805}
-  - {fileID: 2045884924}
-  - {fileID: 478162763}
-  basicItems:
+  colorSprites:
   - {fileID: 21300000, guid: 25ae9785a2b46294eb4cf0dde83a184b, type: 3}
-  - {fileID: 21300000, guid: 9d13c0257d4355d408f6b83de49c6385, type: 3}
   - {fileID: 21300000, guid: db9c3c0a9ddc6814dba1761679cb40de, type: 3}
+  - {fileID: 21300000, guid: 9d13c0257d4355d408f6b83de49c6385, type: 3}
+  resultSprites:
+  - {fileID: 21300000, guid: e1a51bec7adbf4e4c8ab44224109e10a, type: 3}
+  - {fileID: 21300000, guid: 3fa21127188898146b394a64c785e581, type: 3}
+  - {fileID: 21300000, guid: 73e278e4a15731a4fbd220e427b0ddb3, type: 3}
   firstThumbnail: {fileID: 2100610048}
   secondThumbnail: {fileID: 1807600819}
   resultThumbnail: {fileID: 1005098709}
